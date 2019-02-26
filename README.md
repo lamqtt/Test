@@ -1,2 +1,1 @@
-# Test
-Test something
+# Test Git for fun
